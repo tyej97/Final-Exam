@@ -1,0 +1,9 @@
+Robert,400
+Nicholas,250
+Yumi,200
+Robert,187
+James,132
+James,101
+Nicholas,100
+James,50
+Nicholas,20
